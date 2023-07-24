@@ -1,0 +1,15 @@
+:root{
+     
+    --primary-color: #461959 ;
+    --secondary-color: #939CBD;
+    --tertiary-color: #FFFFFF;
+    
+    --primary-background-color: #E3E9FF;
+    --secondary-background-color: var(--tertiary-color);
+    --tertiary-background-color: var(--primary-color);
+
+    --primary-text-color: var(--secondary-color);
+    --secondary-text-color: var(--tertiary-color);
+
+    --danger-color:#7A316F;
+}
